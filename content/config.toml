@@ -1,28 +1,26 @@
 [site]
-title = "Jiale Liu"
-description = "PhD student at the University of Example."
+title = "Xixian Huang"
+description = "CS student at UOW, Risk Analyst Intern at Binance"
 favicon = "/favicon.svg"
-last_updated = "November 18, 2025"
+last_updated = "November 29, 2025"
 
 [author]
-name = "Jiale Liu"
-title = "PhD Student"
-institution = "University of Example"
+name = "Xixian Huang"
+title = "CS Student"
+institution = "University of Wollongong"
 avatar = "/bio.jpg"
 
 [social]
 # Contact information (leave blank or delete to hide)
 
-email = "john.doe@example.com"
-location = "City, Country"
-location_url = "https://maps.google.com"
+email = "xixianhuang985@gmail.com"
+location = "Australia"
+location_url = "https://www.google.com/maps/place/Wollongong+NSW+2500/@-34.4282509,150.8724589,14z/data=!3m1!4b1!4m6!3m5!1s0x6b1319a51f0b567b:0x5017d681632e720!8m2!3d-34.4248336!4d150.8931132!16zL20vMDFqMTJ3?entry=ttu&g_ep=EgoyMDI1MTEyMy4xIKXMDSoASAFQAw%3D%3D"
 location_details = [
-  "Room 123, Science Building,",
-  "University Avenue, City, Country"
+  "Wollongong",
+  "NSW"
 ]
-google_scholar = "https://scholar.google.com"
-orcid = "https://orcid.org"
-github = "https://github.com"
+github = "https://github.com/heyinwong"
 linkedin = "https://linkedin.com"
 
 [features]
@@ -38,11 +36,6 @@ type = "page"
 target = "about"
 href = "/"
 
-[[navigation]]
-title = "Publications"
-type = "page"
-target = "publications"
-href = "/publications"
 
 [[navigation]]
 title = "Teaching"
