@@ -1,15 +1,8 @@
-## Hello there
-
 I'm a CS student currently completing my Master majoring on Machine Learning & Big Data at the **University of Wollongong**, where I focus on building practical machine learning systems, intelligent automation, and data-driven applications.
 
----
+Before moving to Australia, I completed my degree of **Electrical & Electronic Engineering** at **Imperial College London**. Across the past few years, I’ve gained hands-on experience in:
 
-## Background
-
-Before moving to Australia, I completed an **Integrated MEng in Electrical & Electronic Engineering** at **Imperial College London**.  
-Across the past few years, I’ve gained hands-on experience in:
-
-- **Risk analytics & automation** at _Binance_
+- **Crypto & Risk analytics & AI agent** at _Binance_
 - **AI engineering & large-scale RAG systems** at _JN Consulting Engineers_
 - **Edge deep learning & audio ML** during my _ARM_ industry placement
 - **AI agent prototyping & startup tooling** across several early-stage teams
@@ -38,10 +31,6 @@ I aim to grow as an **AI Engineer / Data Engineer**, combining:
 
 - strong **machine learning fundamentals**,
 - practical **systems engineering**, and
-- real-world ** data intuition**.
-
-Ultimately, I’m driven by one idea:
-
-> **Good AI systems should make people’s work easier, safer, and smarter.**
+- real-world **data intuition**.
 
 Feel free to explore my projects or reach out—I’m always happy to connect.

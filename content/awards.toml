@@ -1,27 +1,63 @@
 type = "card"
-title = "Awards"
-description = "Honors and awards I have received."
+title = "Extracurricular & Certifications"
+description = "Activities, roles, and certifications that shaped my growth outside formal coursework."
+
+# ───────────────────
+# Extracurricular
+# ───────────────────
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "Vice President"
+subtitle = "UOW Computing Society"
+date = "2025 – Present"
+content = """
+Being part of the Computing Society’s leadership has been one of the most meaningful parts of my time at UOW.
+I helped run technical workshops, support student hackathons, and host industry events.  
+The experience taught me a lot about communication, planning, and working with people who have very different interests and motivations.
+"""
+tags = ["Leadership", "Community", "Events"]
+
+[[items]]
+title = "Student Volunteer"
+subtitle = "UOW Pulse"
+date = "2024 – Present"
+content = """
+Volunteering at campus events gave me a good balance to my technical routine.
+Whether helping at the student store or jumping in during Open Day, it gave me a stronger sense of connection to the campus community.
+"""
+tags = ["Volunteering", "Campus Life"]
+
+# ───────────────────
+# Certifications
+# ───────────────────
+
+[[items]]
+title = "Oracle AI Vector Search Certified Professional"
+subtitle = "Oracle"
 date = "2025"
-content = "Description of the award."
+content = """
+I pursued this certification while exploring retrieval and vector databases more seriously.  
+It helped deepen my understanding of hybrid search and how AI systems structure and retrieve information efficiently.
+"""
+tags = ["Vector Search", "Retrieval"]
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "MySQL 8.0 Database Administrator (OCP)"
+subtitle = "Oracle"
+date = "2025"
+content = """
+Preparing for this exam pushed me to understand the parts of SQL that you normally don’t encounter in class —  
+indexing strategies, storage engines, and performance tuning.  
+It ended up helping a lot when I later worked on data-heavy AI systems.
+"""
+tags = ["SQL", "Database"]
+
+[[items]]
+title = "AWS Certified Cloud Practitioner"
+subtitle = "Amazon Web Services"
 date = "2024"
-content = "Description of the award."
-
-[[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2023"
-content = "Description of the award."
-
-[[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2022"
-content = "Description of the award."
+content = """
+My first cloud certification.  
+It gave me a clearer picture of how AWS fits together and how to think about deployment, storage, and cost in a more systematic way.
+"""
+tags = ["Cloud", "AWS"]

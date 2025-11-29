@@ -6,9 +6,9 @@ last_updated = "November 29, 2025"
 
 [author]
 name = "Xixian Huang"
-title = "CS Student"
-institution = "University of Wollongong"
-avatar = "/bio.jpg"
+title = "CS Student | Risk Analyst"
+institution = "University of Wollongong | Binance"
+avatar = "/avatar.gif"
 
 [social]
 # Contact information (leave blank or delete to hide)
@@ -38,22 +38,23 @@ href = "/"
 
 
 [[navigation]]
-title = "Teaching"
+title = "Experience"
 type = "page"
 target = "teaching"
 href = "/teaching"
 
-[[navigation]]
-title = "Awards"
-type = "page"
-target = "awards"
-href = "/awards"
 
 [[navigation]]
-title = "Services"
+title = "Projects"
 type = "page"
 target = "services"
 href = "/services"
+
+[[navigation]]
+title = "Others"
+type = "page"
+target = "awards"
+href = "/awards"
 
 [[navigation]]
 title = "CV"

@@ -1,10 +1,67 @@
 type = "card"
-title = "Projects"
-description = "CS projects I lead or took part in."
+title = "Work Experience"
+description = "A personal look at the roles that shaped how I think and work."
 
 [[items]]
-title = "Example Course"
-subtitle = "Teaching Assistant"
-date = "2024"
-content = "Description of the course and responsibilities."
-tags = ["Undergraduate", "CS"]
+title = "Risk Analyst (AI agent)"
+subtitle = "Binance"
+date = "2025 – Present"
+content = """
+Working in risk at Binance changed how I think about data.  
+The pace is fast, the systems are complex, and the signals you see reflect real user behaviour happening in real time.
+
+A lot of problems start out vague—I had to learn how to dig through noise, find patterns, and turn half-formed ideas into something concrete. Building automation and experimenting with AI agents showed me how even small tools can genuinely save time for the team.
+
+It’s demanding work, but it pushed me to grow quickly and be comfortable dealing with uncertainty.
+"""
+tags = ["Risk Analytics", "Automation", "SQL", "AI Agents"]
+
+[[items]]
+title = "AI Intern"
+subtitle = "JN Consulting Engineers"
+date = "2025"
+content = """
+JN was the role that really made me understand what “applied AI” means.  
+Working with a 16TB document repository forced me to think about retrieval, indexing, chunking, and how real systems behave under scale.
+
+I built both a RAG search engine and a report-generation pipeline that engineers actually relied on day-to-day. Seeing people use what I built felt different from any school project—it made the work feel real.
+
+This internship taught me that good engineering is about making someone’s job easier, not about building the fanciest model.
+"""
+tags = ["RAG", "Python", "Search", "API"]
+
+[[items]]
+title = "AI Intern"
+subtitle = "NUSEUM (AI startup)"
+date = "2025"
+content = """
+NUSEUM had the fast, scrappy feel of an early-stage startup.  
+I worked on a function-calling AI agent to reduce hallucinations in product recommendations, which basically meant lots of testing, breaking things, and tuning prompts until the system behaved.
+
+The part I enjoyed most was the freedom to try ideas quickly. It made me realise I enjoy early prototyping much more than I expected.
+"""
+tags = ["AI Agents", "Prompting", "Startup"]
+
+[[items]]
+title = "Web & Data Intern"
+subtitle = "Star Promotional Products"
+date = "2024 – 2025"
+content = """
+This was a very “hands-on everything” type of job.  
+I maintained the company’s eCommerce website, cleaned up data, integrated supplier APIs, set up DNS and domains, and even helped with SEO and analytics.
+
+It was the first time I saw how technology decisions directly affect a small business, and it taught me to think beyond the code itself.
+"""
+tags = ["Web Dev", "MySQL", "API Integration"]
+
+[[items]]
+title = "Technical Consultant (Industry Placement)"
+subtitle = "Arm"
+date = "2022"
+content = """
+At Arm, I built a real-time speaker recognition model and deployed it on Raspberry Pi devices with strict memory and latency limits.
+
+Working under hardware constraints forced me to care about efficiency—model size, preprocessing, and performance mattered just as much as accuracy.  
+Seeing the model finally run smoothly on a tiny device was incredibly rewarding and gave me a solid foundation for future ML engineering work.
+"""
+tags = ["Deep Learning", "Audio ML", "Edge ML"]

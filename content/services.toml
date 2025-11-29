@@ -1,9 +1,42 @@
 type = "card"
-title = "Area of Interest"
-description = "Professional services and community involvement."
+title = "Projects"
+description = "Projects that practiced my skills."
 
 [[items]]
-title = "Reviewer"
-subtitle = "Journal Name"
-date = "2024"
-content = "Reviewed papers for..."
+title = "AI Agent Hackathon"
+subtitle = "Microsoft AI Agent Hackathon 2025"
+date = "2025"
+content = """
+My first hackathon, and the experience that pulled me into the world of AI agents.
+
+I built a persona-driven agent system using Python, Streamlit, and the OpenAI API. Most of the time was spent figuring out how to structure prompts, handle tool-calling cleanly, and keep the system from wandering off-task.
+
+The project was simple, but it opened my eyes to how flexible agent architectures can be — and how a small prototype can turn into something surprisingly functional with the right constraints.
+"""
+tags = ["AI Agents", "LLMs", "Hackathon", "Python"]
+
+[[items]]
+title = "VisionShield"
+subtitle = "UOW Capstone Project"
+date = "2025"
+content = """
+VisionShield is a real-time OCR + LLM system designed to detect and redact sensitive on-screen content. 
+
+I led a five-member team to build the entire pipeline: screen capture, PaddleOCR integration, retrieval-based classification, and LLM summarisation for generating explainable violation flags. Every part of the system had its own challenges — latency, text grouping, false positives, UI design.
+
+This project is still ongoing and so far it already taught me a lot about turning academic ideas into something end-to-end and usable, and about coordinating a team around a technical problem that doesn’t have a single “correct” solution.
+"""
+tags = ["OCR", "LLMs", "Python", "RAG", "Team Project"]
+
+[[items]]
+title = "Portfolio Optimization Under Uncertainty"
+subtitle = "Imperial College London"
+date = "2022 – 2023"
+content = """
+For my MEng research project at Imperial, I explored distributionally robust optimization (DRO) for portfolio management. 
+
+I implemented metric-based ambiguity sets and the MAD framework using MATLAB (CVX) and Python, and compared performance using both historical and synthetic S&P 500 data.
+
+It was my first time working with mathematical optimization in a research context, and it gave me a deeper understanding of risk, uncertainty modelling, and how theoretical ideas behave once you test them against real-world data.
+"""
+tags = ["Optimization", "Research", "MATLAB", "Python", "Finance"]
