@@ -40,21 +40,21 @@ href = "/"
 [[navigation]]
 title = "Experience"
 type = "page"
-target = "teaching"
-href = "/teaching"
+target = "experience"
+href = "/experience"
 
 
 [[navigation]]
 title = "Projects"
 type = "page"
-target = "services"
-href = "/services"
+target = "project"
+href = "/project"
 
 [[navigation]]
 title = "Others"
 type = "page"
-target = "awards"
-href = "/awards"
+target = "more"
+href = "/more"
 
 [[navigation]]
 title = "CV"

@@ -1,5 +1,6 @@
 type = "card"
 title = "Projects"
+slug = "project"
 description = "Projects that practiced my skills."
 
 [[items]]

@@ -1,5 +1,6 @@
 type = "card"
 title = "Work Experience"
+slug = "experience"
 description = "A personal look at the roles that shaped how I think and work."
 
 [[items]]

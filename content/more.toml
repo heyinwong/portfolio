@@ -1,5 +1,6 @@
 type = "card"
 title = "Extracurricular & Certifications"
+slug = "more"
 description = "Activities, roles, and certifications that shaped my growth outside formal coursework."
 
 # ───────────────────
