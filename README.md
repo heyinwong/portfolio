@@ -6,16 +6,11 @@ Deployment guide:
 1.  **Build Project**
 
    Install correct version of Node.js.
-    *   **Download**：from [https://nodejs.org/en/download](https://nodejs.org/en/download) 
+     **Download**：from [https://nodejs.org/en/download](https://nodejs.org/en/download) . We then open terminal and run the following code, which we will then obtain a foler of `out`. It contains all the static file for the portfolio website.
 
-    open terminal and run:
 
-    ```bash
     npm install
     npm run build
-    ```
-
-    then we will obtain a foler of `out`. It contains all the static file for the portfolio website.
 
 2.  **create GitHub repo**
 
